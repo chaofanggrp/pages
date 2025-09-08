@@ -9,7 +9,7 @@
 
 main:
   - title: "Chao Fang"
-    url: /talks/
+    url: /cv/
   - title: "MOST Lab"
     url: /authors/
   - title: "Research"
@@ -17,7 +17,7 @@ main:
   - title: "Publications"
     url: /publications/    
   - title: "News"
-    url: /cv/
+    url: /talks/
 
  # - title: "Talks"
  #   url: /talks/    
