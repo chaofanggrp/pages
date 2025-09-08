@@ -9,15 +9,15 @@
 
 main:
   - title: "Chao Fang"
-    url: /Chao Fang/
+    url: /talks/
   - title: "MOST Lab"
     url: /MOST Lab/
   - title: "Research"
-    url: /Research/
+    url: /portfolio/
   - title: "Publications"
     url: /publications/    
   - title: "News"
-    url: /News/
+    url: /cv/
 
  # - title: "Talks"
  #   url: /talks/    
