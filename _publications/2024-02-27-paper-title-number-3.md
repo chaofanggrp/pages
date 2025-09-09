@@ -1,12 +1,11 @@
 ---
-title: "Nanosecond solvation dynamics in a polymer electrolyte for lithium batteries
-Shah, Neel J.; Fang, Chao; Osti, Naresh C.; Mamontov, Eugene; Yu, Xiaopeng; Lee, Jaeyong; Watanabe, Hiroshi; Wang, Rui; Balsara, Nitash P."
+title: "Nanosecond solvation dynamics in a polymer electrolyte for lithium batteries"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Nature Materials, 10.1038/s41563-024-01834-y'
+#permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'Shah, Neel J.; Fang, Chao; Osti, Naresh C.; Mamontov, Eugene; Yu, Xiaopeng; Lee, Jaeyong; Watanabe, Hiroshi; Wang, Rui; Balsara, Nitash P.'
 date: 2024-02-27
-venue: 'February 27'
+venue: 'Nature Materials, 10.1038/s41563-024-01834-y'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: 'Shah, Neel J.; Fang, Chao; Osti, Naresh C.; Mamontov, Eugene; Yu, Xiaopeng; Lee, Jaeyong; Watanabe, Hiroshi; Wang, Rui; Balsara, Nitash P.'
