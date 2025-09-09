@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Nature Materials, 10.1038/s41563-024-01834-y'
 date: 2024-02-27
-venue: 'Journal 1'
+venue: 'February 27'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Shah, Neel J.; Fang, Chao; Osti, Naresh C.; Mamontov, Eugene; Yu, Xiaopeng; Lee, Jaeyong; Watanabe, Hiroshi; Wang, Rui; Balsara, Nitash P.'
