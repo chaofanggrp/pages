@@ -26,8 +26,8 @@ author:
   name             : "Chao Fang"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
-  location         : "W4 L6 605"
-  employer         : "HKUST(GZ)"
+  #location         : "W4 L6 605"
+  #employer         : "HKUST(GZ)"
   uri              : # URL
   email            : "chaofang@hkust-gz.edu.cn" 
 
