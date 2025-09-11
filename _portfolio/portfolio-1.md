@@ -1,6 +1,6 @@
 --- 
-title: "Portfolio item number 1" 
-excerpt: "Research Interest<br/><img src='https://chaofanggrp.github.io/pages/images/Res1.png'>" 
+title: "Title" 
+excerpt: "Subtitle<br/><img src='https://chaofanggrp.github.io/pages/images/Res1.png'>" 
 collection: portfolio 
 --- 
 
