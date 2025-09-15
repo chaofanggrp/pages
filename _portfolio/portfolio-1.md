@@ -1,6 +1,6 @@
 --- 
 title: "Title" 
-excerpt: "Subtitle<br/><img src='https://chaofanggrp.github.io/pages/images/Res1.png'>" 
+excerpt: "Subtitle<br/><img src='https://chaofanggrp.github.io/pages/images/Picture1.png'>" 
 collection: portfolio 
 --- 
 
