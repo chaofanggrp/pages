@@ -25,7 +25,7 @@ author:
   avatar           : "CF.png"
   name             : "Chao Fang"
   pronouns         : # example: "she/her"  
-  bio              : "W4 L6 605, HKUST(GZ)"
+  #bio              : "W4 L6 605, HKUST(GZ)"
   location         : "W4 L6 605"
   employer         : "HKUST(GZ)"
   uri              : # URL
@@ -34,10 +34,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-cKn8iQAAAAJ&view_op=list_works&authuser=4&sortby=pubdate"
+  #googlescholar    : "https://scholar.google.com/citations?hl=en&user=-cKn8iQAAAAJ&view_op=list_works&authuser=4&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-6207-0819"
+  #orcid            : "https://orcid.org/0000-0002-6207-0819"
   semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
